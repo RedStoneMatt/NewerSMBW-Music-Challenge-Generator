@@ -1,0 +1,11 @@
+C:\Users\PC3\source\repos\NewerSMBW Music Challenge Generator\NewerSMBW Music Challenge Generator\bin\Release\NewerSMBW Music Challenge Generator.exe.config
+C:\Users\PC3\source\repos\NewerSMBW Music Challenge Generator\NewerSMBW Music Challenge Generator\bin\Release\NewerSMBW Music Challenge Generator.exe
+C:\Users\PC3\source\repos\NewerSMBW Music Challenge Generator\NewerSMBW Music Challenge Generator\bin\Release\NewerSMBW Music Challenge Generator.pdb
+C:\Users\PC3\source\repos\NewerSMBW Music Challenge Generator\NewerSMBW Music Challenge Generator\obj\Release\NewerSMBW Music Challenge Generator.csprojAssemblyReference.cache
+C:\Users\PC3\source\repos\NewerSMBW Music Challenge Generator\NewerSMBW Music Challenge Generator\obj\Release\NewerSMBW_Music_Challenge_Generator.About.resources
+C:\Users\PC3\source\repos\NewerSMBW Music Challenge Generator\NewerSMBW Music Challenge Generator\obj\Release\NewerSMBW_Music_Challenge_Generator.Main.resources
+C:\Users\PC3\source\repos\NewerSMBW Music Challenge Generator\NewerSMBW Music Challenge Generator\obj\Release\NewerSMBW_Music_Challenge_Generator.Properties.Pictures.resources
+C:\Users\PC3\source\repos\NewerSMBW Music Challenge Generator\NewerSMBW Music Challenge Generator\obj\Release\NewerSMBW_Music_Challenge_Generator.Properties.Resources.resources
+C:\Users\PC3\source\repos\NewerSMBW Music Challenge Generator\NewerSMBW Music Challenge Generator\obj\Release\NewerSMBW Music Challenge Generator.csproj.GenerateResource.cache
+C:\Users\PC3\source\repos\NewerSMBW Music Challenge Generator\NewerSMBW Music Challenge Generator\obj\Release\NewerSMBW Music Challenge Generator.exe
+C:\Users\PC3\source\repos\NewerSMBW Music Challenge Generator\NewerSMBW Music Challenge Generator\obj\Release\NewerSMBW Music Challenge Generator.pdb
