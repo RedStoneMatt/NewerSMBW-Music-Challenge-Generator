@@ -1,7 +1,7 @@
 # NewerSMBW Music Challenge Generator
 Actually, it's an editor, not a generator :p
 
-A little tool to preview and edit NewerSMBW's Music Houses's musics from the game's source code.
+A simple tool to preview and edit NewerSMBW's Music Houses's musics from the game's source code.
 
 # Usage
 Build the code by yourself using [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/) or download the latest [Compiled Binary](https://github.com/RedStoneMatt/NewerSMBW-Music-Challenge-Generator/releases) and open the software.
